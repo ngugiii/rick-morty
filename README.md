@@ -59,6 +59,5 @@ This is a web application built with React and Next.js that allows users to view
 ## Future Improvements
 
 - Implement authentication and user accounts to allow users to save notes across devices.
-- Add search functionality to filter residents by name, species, or location.
 - Improve error handling and add loading indicators to provide better feedback to users.
 - Implement pagination for residents and episodes to improve performance with large datasets.
